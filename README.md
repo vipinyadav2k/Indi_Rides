@@ -1,3 +1,21 @@
+Indi Rides Assignment 
+
+Demo : https://indi-rides.vercel.app/
+
+Image:
+![image](https://github.com/user-attachments/assets/5a52f7dc-7fae-4771-904a-da45930de5de)
+
+
+Image (With Pesticide Extension) to check proper divs:
+![image](https://github.com/user-attachments/assets/180c4f66-98df-45b4-8f92-605b3a7ad0e7)
+
+
+Layout Image: 
+![image](https://github.com/user-attachments/assets/fd2b0e1f-584c-4c93-98e6-9d9d51f57d34)
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
