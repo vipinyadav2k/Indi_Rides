@@ -1,0 +1,30 @@
+/* Reddit-style threaded connector lines */
+.comment-branch::before {
+    content: '';
+    position: absolute;
+    top: 0; 
+    left: 15px;
+    width: 23px;
+    height: 19px;
+    border-bottom: 1px solid #333537;
+    border-left: 1px solid #363739;
+    border-radius: 0 0 0 114px; 
+    background: transparent;
+  }
+  
+  
+  
+  .comment-branch::after {
+    content: '';
+    position: absolute;
+    top: -60px;
+    bottom: 0px;
+    left: 15px;
+    width: 1px;
+    background-color: #5d5e61;
+  }
+  
+  .comment-branch:last-child::after {
+    height: 60px;
+  }
+  
