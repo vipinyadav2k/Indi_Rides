@@ -1,6 +1,6 @@
 Indi Rides Assignment 
 
-Demo : https://indi-rides.vercel.app/
+Demo : [https://indi-rides.vercel.app/](https://indi-rides.vercel.app/)
 
 Image:
 ![image](https://github.com/user-attachments/assets/9aeb2a07-17c3-4571-9c69-5f252c90a7fd)
